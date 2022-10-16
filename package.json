@@ -1,0 +1,45 @@
+{
+  "name": "node-pkgver",
+  "version": "1.0.0",
+  "description": "Get the current version of your NodeJs project",
+  "license": "MIT",
+  "homepage": "https://github.com/juliyvchirkov/node-pkgver#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliyvchirkov/node-pkgver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juliyvchirkov/node-pkgver/issues"
+  },
+  "author": {
+    "name": "Juliy V. Chirkov",
+    "email": "juliyvchirkov@gmail.com",
+    "url": "https://juliyvchirkov.github.io"
+  },
+  "type": "module",
+  "main": "./index.mjs",
+  "exports": "./index.mjs",
+  "engines": {
+    "node": ">=10.12.0"
+  },
+  "keywords": [
+    "project",
+    "package",
+    "pkg",
+    "version",
+    "ver",
+    "current",
+    "utility",
+    "helper",
+    "javascript",
+    "ecmascript",
+    "es",
+    "es6",
+    "module",
+    "esm",
+    "mjs",
+    "node",
+    "nodejs",
+    "modern"
+  ]
+}
